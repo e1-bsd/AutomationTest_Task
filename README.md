@@ -3,7 +3,7 @@ The goal of this task is building a full UI and API automation basic simple task
 
 You must use Postman and selenium and BDD module. Aside from those, you may choose any language you want, but there are some suggestions below with things that might make us fall in love with your code.
 ## User Storys witch need test
-###link
+🔗will coming soon
 
 ## Deliverable
 
