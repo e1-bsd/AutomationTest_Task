@@ -7,8 +7,8 @@ You must use Postman and selenium and BDD module. Aside from those, you may choo
 
 ## Deliverable
 
-Upload your code to GitHub and share the repo with us. 👩‍🏫
-Show and explain the automation framework chart. 👨‍🏫
+* 👩‍🏫 Upload your code to GitHub and share the repo with us. 
+* 👨‍🏫 Show and explain the automation framework chart. 
 
 ## Evaluation
 
